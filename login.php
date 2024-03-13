@@ -1,7 +1,7 @@
 <?php
     include_once 'inc/session.php';
     include_once 'inc/db.php';   
-//cehcking Isset
+//Checking Isset
     if(isset($_POST['login_in_btn'])){
 
       
